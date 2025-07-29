@@ -118,5 +118,25 @@
 // console.log(result);
 
 
-// var arr = ["keyboard","mouse",]
+    //     var arr = ["keyboard","mouse","Printer","monitor"];
+    //     document.writeln("<b>Devices:<br/>",arr.join(", ") ,"</b><br/>");
+
+    // document.writeln("<b>Out: <br> ",arr.shift(),"</b><br>");
+    // document.writeln("<b>Out: <br> ",arr.shift(),"</b><br>");
+    // document.writeln("<b>Out: <br> ",arr.shift(),"</b><br>");
+    // document.writeln("<b>Out: <br> ",arr.shift(),"</b><br>");
+
+
+        // var device = ["keyboard","mouse","Printer","monitor"];
+        // document.writeln("<b>Devices:<br/>",device.join(", ") ,"</b><br/>");
+
+    // document.writeln("<b>Out: <br> ",device.pop(),"</b><br>");
+    // document.writeln("<b>Out: <br> ",device.pop(),"</b><br>");
+    // document.writeln("<b>Out: <br> ",device.pop(),"</b><br>");
+    // document.writeln("<b>Out: <br> ",device.pop(),"</b><br>");
+
+
+// var phoneCompany = ["Apple","Samsung","Motorola","Nokia","Sony","Haier"];
+
+// document.writeln("<select name='PhoneManufactor' id='phone'>,<option selected disabled >Select your phone:</option>,<option value='Apple'>"+phoneCompany.shift()+"</option>,<option value='Samsung'>"+phoneCompany.shift()+"</option>,<option value='Motorola'>"+phoneCompany.shift()+"</option>,<option value='Nokia'>"+phoneCompany.shift()+"</option>, <option value='sony'>"+phoneCompany.shift()+"</option>,<option value='Haier'>"+phoneCompany.shift()+"</option></select>");
 
